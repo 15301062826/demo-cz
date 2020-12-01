@@ -1,4 +1,4 @@
-FROM harbor.jd.com/jpipe/centos7.5-java:1.8-maven3.5.4
+FROM 114.67.237.112/jpipe/centos7.5-java:1.8-maven3.5.4
 EXPOSE 8080
 
 VOLUME /tmp
