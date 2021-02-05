@@ -45,6 +45,9 @@ public class UserServiceImpl extends ServiceImpl<UserDao, UserEntity> implements
 		if(!user.getPassword().equals(DigestUtils.sha256Hex(form.getPassword()))){
 			throw new RRException("手机号或密码错误");
 		}
+		//create bugs
+		String newUsername = null;
+		//System.out.println(newUsername.substring(0,3));
 
 		//获取登录token
 		TokenEntity tokenEntity = tokenService.createToken(user.getUserId());
