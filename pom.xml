@@ -19,11 +19,10 @@
         <module>renren-common</module>
         <module>renren-admin</module>
         <module>renren-api</module>
-		<module>renren-dynamic-datasource</module>
         <module>renren-generator</module>
     </modules>
 
-    
+
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
