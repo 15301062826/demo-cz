@@ -44,6 +44,22 @@ public class PageUtilsTest {
     @Test
     public void getList() {
     }
+    
+     @Test
+    public void getTotalPage() {
+    }
+
+    @Test
+    public void setTotalPage() {
+    }
+
+    @Test
+    public void getCurrPage() {
+    }
+
+    @Test
+    public void setCurrPage() {
+    }
 
     @Test
     public void setList() {
