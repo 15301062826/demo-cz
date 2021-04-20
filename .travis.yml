@@ -1,3 +1,1 @@
-language: shell
-
-echo 'aa'
+script: bash ./test.sh
