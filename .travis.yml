@@ -1,1 +1,3 @@
- script: ./run-tests.sh
+language: shell
+
+echo 'aa'
