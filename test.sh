@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "aa"
+git clone https://coding.jd.com/han-test/demo-cz.git
