@@ -23,7 +23,7 @@ sdf
         <module>renren-generator</module>
     </modules>
 
-
+//test
 
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
