@@ -1,4 +1,4 @@
-name: test-0521
+name: test-0521-pipeline
 on: [push]
 jobs:
   check-0521:
