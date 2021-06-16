@@ -16,6 +16,7 @@ sdfds
 		<version>2.1.8.RELEASE</version>
 	</parent>
 
+	dsfsdf
     <modules>
         <module>renren-common</module>
         <module>renren-admin</module>
